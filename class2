@@ -1,0 +1,7 @@
+partial class Prog
+{
+void Wel()
+{
+Console.WriteLine("Wel");
+}
+}
