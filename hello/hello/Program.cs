@@ -8,7 +8,7 @@ namespace hello
 {
     class Program
     {
-        //int a;
+        int a;
         static void Main(string[] args)
         {
             Console.WriteLine("Hello");
