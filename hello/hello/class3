@@ -1,0 +1,7 @@
+partial class Prog
+{
+void Welll()
+{
+Console.WriteLine("Wellll");
+}
+}
